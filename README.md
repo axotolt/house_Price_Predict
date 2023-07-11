@@ -17,3 +17,5 @@ Predict a house's price based on:
 - Distance_to_SanDiego        
 - Distance_to_SanJose         
 - Distance_to_SanFrancisco    
+
+with XGBRegressor and RandomForestRegressor
